@@ -29,7 +29,7 @@ The Basecamp is done using the 42 style of learning:
 
 You work by yourself and in groups, ask your peers for help, help your peers, and complete projects.
 
-__I was approved to be a offical cadet at [42 São Paulo](https://www.42sp.org.br)__ and now I student on-line because pandemic situation. In this jorney I'm on the first trail to be certicaded as "Human Coder".
+Between 12.000 candidates inscribed on Brazil __I was approved to be a offical cadet at [42 São Paulo](https://www.42sp.org.br)__ after three processes fases and now I student on-line because pandemic situation. In this jorney I'm on the first trail to be certicaded as "Human Coder".
 
 ### More about 42
 
